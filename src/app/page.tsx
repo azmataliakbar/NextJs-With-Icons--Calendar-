@@ -69,6 +69,7 @@ export default function Home() {
           />
         </div>
       </div>
+      <h4 className="text-center text-gray-400">Author: Azmat Ali</h4>
     </div>
   );
 }

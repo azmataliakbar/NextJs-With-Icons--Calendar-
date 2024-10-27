@@ -101,6 +101,7 @@ const Calendar = () => {
       </div>
 
       <h1 className="text-blue-600 font-bold text-3xl text-center w-full hover:scale-125"><u>4 Month&apos;s Calendar</u></h1>
+      <h4 className="text-center text-gray-400">Author: Azmat Ali</h4>
     </div>
   );
 };
